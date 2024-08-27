@@ -1,0 +1,14 @@
+# Python関連
+__pycache__/
+*.py[cod]
+venv/
+
+# 環境変数ファイル
+.env
+
+# OS生成ファイル
+.DS_Store
+
+# エディタ設定ファイル
+.vscode/
+.idea/
